@@ -29,4 +29,6 @@ They are available on my YouTube channel. The playlist link is given below:
 
 * Try to solve the problems by yourself first. If you cannot, only then look at the solutions given. This will improve your skills and critical thinking.
 
+* Solutions to the assignment questions as well as mock test questions are provided. Try them by yourself first.
+
 * The course content was updated in 2023. The original 5 week lectures were later extended into 11 weeks. 
