@@ -33,7 +33,8 @@ I personally love this platform and have solved around 3000 problems there. I al
 
 My profile: https://www.mathworks.com/matlabcentral/cody/players/16549154
 
-* I also created an introductory video on how to use Cody. It is available here: [![Introduction to Cody](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/YZYKIKEyqRs?si=61atZmXruSAI3Rns)
+* I also created an introductory video on how to use Cody. It is available here: [![YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube)](https://www.youtube.com/watch?v=YZYKIKEyqRs&ab_channel=TheGrayWolf)
+
 
 
 ## Note
