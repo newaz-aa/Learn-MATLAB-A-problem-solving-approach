@@ -25,6 +25,17 @@ They are available on my YouTube channel. The playlist link is given below:
 
 [![YouTube Playlist](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube)](https://www.youtube.com/playlist?list=PLLUzBeNIe07FbCYrmvil8YggU-Hn0xZkw)
 
+# Cody
+
+Cody is an online MATLAB programming competition platform created by MathWorks.  Thousands of programmers around the world participate in this platform. More than 5000 programming challenges are available here and it's a good place to hone your MATLAB programming skill.
+
+I personally love this platform and have solved around 3000 problems there. I also created around 200 new problems there as well as 5  problem groups. My highest ranking in Cody was 4th with 60 badges.
+
+My profile: https://www.mathworks.com/matlabcentral/cody/players/16549154
+
+* I also created an introductory video on how to use Cody. It is available here: [![Introduction to Cody](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/YZYKIKEyqRs?si=61atZmXruSAI3Rns)
+
+
 ## Note
 
 * Try to solve the problems by yourself first. If you cannot, only then look at the solutions given. This will improve your skills and critical thinking.
