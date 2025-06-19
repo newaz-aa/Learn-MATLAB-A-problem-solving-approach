@@ -1,5 +1,5 @@
 
-# Learn MATLAB: A Problem Solving Approach
+# Learn MATLAB: A Problem-Solving Approach
 
 
 
@@ -8,9 +8,9 @@
 
 ## Synopsis
 
-After completing this course, you'll have a very good understanding of MATLAB programming language.
+After completing this course, you'll have a very good understanding of the MATLAB programming language.
 
-The lectures are prepared in a problem-solving manner. For example, a particular topic like vectorization or broadcasting was explained as simply as possible. Then how to apply those concepts in solving real problems was demonstrated.
+The lectures are prepared in a problem-solving manner. For example, a particular topic like vectorization or broadcasting was explained as simply as possible. Then, how to apply those concepts in solving real problems was demonstrated.
 
 ## Contents
 
@@ -27,9 +27,9 @@ They are available on my YouTube channel. The playlist link is given below:
 
 # Cody
 
-Cody is an online MATLAB programming competition platform created by MathWorks.  Thousands of programmers around the world participate in this platform. More than 5000 programming challenges are available here and it's a good place to hone your MATLAB programming skill.
+Cody is an online MATLAB programming competition platform created by MathWorks.  Thousands of programmers around the world participate in this platform. More than 5000 programming challenges are available here, and it's a good place to hone your MATLAB programming skills.
 
-I personally love this platform and have solved around 3000 problems there. I also created around 200 new problems there as well as 5  problem groups. My highest ranking in Cody was 4th with 60 badges.
+I personally love this platform and have solved around 3000 problems there. I also created around 200 new problems there, as well as 5  problem groups. My highest ranking in Cody was 4th with 60 badges.
 
 My profile: https://www.mathworks.com/matlabcentral/cody/players/16549154
 
@@ -43,6 +43,6 @@ My profile: https://www.mathworks.com/matlabcentral/cody/players/16549154
 
 * Try to solve the problems by yourself first. If you cannot, only then look at the solutions given. This will improve your skills and critical thinking.
 
-* Solutions to the assignment questions as well as mock test questions are provided. Try them by yourself first.
+* Solutions to the assignment questions, as well as mock test questions, are provided. Try them by yourself first.
 
-* The course content was updated in 2023. The original 5 week lectures were later extended into 11 weeks. 
+* The course content was initially designed as a 5-week module but was extended to 11 weeks in 2023. This year, it has been further enhanced with detailed descriptions and manuals to improve comprehension. It is recommended to follow the updated version.
